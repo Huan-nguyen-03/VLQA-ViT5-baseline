@@ -1,0 +1,42 @@
+[
+    {
+        "id": 2532,
+        "href": "https://thuvienphapluat.vn/hoi-dap-phap-luat/839B9B7-hd-thu-tuc-cap-giay-chung-nhan-trung-tam-sat-hach-lai-xe-loai-3-du-dieu-kien-hoat-dong-nhu-the-nao.html",
+        "question": "Thủ tục cấp giấy chứng nhận trung tâm sát hạch lái xe loại 3 đủ điều kiện hoạt động như thế nào?",
+        "answer": "thủ tục cấp giấy chứng nhận trung tâm sát hạch lái xe loại 3 đủ điều kiện hoạt động như sau: Bước 1: Tổ chức, cá nhân gửi 01 bộ hồ sơ trực tiếp hoặc qua đường bưu điện đến Sở Giao thông vận tải đề nghị cấp giấy chứng nhận trung tâm sát hạch lái xe đủ điều kiện hoạt động; Bước 2: Trong thời gian không quá 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định, Sở Giao thông vận tải tổ chức kiểm tra, cấp giấy chứng nhận. Trường hợp không cấp, phải trả lời bằng văn bản và nêu rõ lý do.",
+        "relevant_laws": [
+            {
+                "name": "Điều 22 Nghị định 65/2016/NĐ-CP",
+                "href": "https://thuvienphapluat.vn/van-ban/thuong-mai/nghi-dinh-65-2016-NĐ-CP-dieu-kien-kinh-doanh-dich-vu-dao-tao-lai-xe-o-to-dich-vu-sat-hach-lai-xe-315465.aspx",
+                "id_Law": "65/2016/NĐ-CP",
+                "id_Chapter": 3,
+                "id_Section": 1,
+                "id_Article": 22
+            }
+        ]
+    },
+    {
+        "id": 6850,
+        "href": "https://thuvienphapluat.vn/hoi-dap-phap-luat/839BAE6-hd-cong-chung-vien-co-nhung-hinh-thuc-hanh-nghe-nao-ai-co-trach-nhiem-dang-ky-hanh-nghe-cho-cong-chung.html",
+        "question": "Bảo hiểm trách nhiệm nghề nghiệp của công chứng viên có phải là bảo hiểm bắt buộc?",
+        "answer": "bảo hiểm trách nhiệm nghề nghiệp của công chứng viên là loại hình bảo hiểm bắt buộc. Việc mua bảo hiểm trách nhiệm nghề nghiệp cho công chứng viên phải được duy trì trong suốt thời gian hoạt động của tổ chức hành nghề công chứng.",
+        "relevant_laws": [
+            {
+                "name": "Điều 19 Nghị định 29/2015/NĐ-CP",
+                "href": "https://thuvienphapluat.vn/van-ban/dich-vu-phap-ly/nghi-dinh-29-2015-NĐ-CP-huong-dan-luat-cong-chung-268406.aspx",
+                "id_Law": "29/2015/NĐ-CP",
+                "id_Chapter": 3,
+                "id_Section": 1,
+                "id_Article": 19
+            },
+            {
+                "name": "Điều 37 Luật Công chứng 2014",
+                "href": "https://thuvienphapluat.vn/van-ban/dich-vu-phap-ly/luat-cong-chung-2014-238638.aspx",
+                "id_Law": "53/2014/QH13",
+                "id_Chapter": 4,
+                "id_Section": 1,
+                "id_Article": 37
+            }
+        ]
+    }
+]
