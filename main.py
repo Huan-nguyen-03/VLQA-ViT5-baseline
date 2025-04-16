@@ -7,7 +7,7 @@ import pytorch_lightning as pl
 
 
 if __name__ == "__main__":
-    df_train,df_test = get_vlqa_data()
+    df_train, df_test = get_vlqa_data()
     dataload = T5DataLoad(df_train,df_test)
     dataload.setup()
     device = DEVICE

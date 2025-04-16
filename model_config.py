@@ -8,8 +8,8 @@ VAL_BATCH_SIZE = 1 # batch size for validation
 EPOCHS = 6 # number of epoch
 MODEL_NAME = "VietAI/vit5-base"
 
-TRAIN_DATA_PATH = "/VLQA_data/train_data_example.json"
-TEST_DATA_PATH = "/VLQA_data/test_data_example.json"
-LAW_DATA_PATH = "/VLQA_data/law_data_example.json"
+TRAIN_DATA_PATH = "./VLQA_data/train_data_example.json"
+TEST_DATA_PATH = "./VLQA_data/test_data_example.json"
+LAW_DATA_PATH = "./VLQA_data/law_data_example.json"
 
 OUTPUT_DIR = "./output"

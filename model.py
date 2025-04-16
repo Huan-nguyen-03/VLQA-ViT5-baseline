@@ -4,7 +4,7 @@ import torch
 import torch.nn.functional as F
 import numpy as np
 import pytorch_lightning as pl
-from transformers import AdamW
+from torch.optim import AdamW
 
 
 from tokenizer import tokenizer

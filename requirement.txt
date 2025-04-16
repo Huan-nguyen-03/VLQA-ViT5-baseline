@@ -1,0 +1,11 @@
+pytorch-lightning==2.5.1
+numpy==2.2.4
+pandas==2.2.3
+tokenizer==3.4.5
+pathlib==1.0.1
+transformers==4.51.3
+sentencepiece==0.2.0
+scikit-learn==1.6.1
+evaluate==0.4.3
+rouge-score==0.1.2
+bert-score==0.3.13
